@@ -1,4 +1,6 @@
-## Hi there 👋 I am Msk Kumudesh Undergraduate Softwear Student in Sri Lanka
+## Hi there 👋 I am Msk Kumudesh
+![](https://komarev.com/ghpvc/?username=msk-kumudesh&color=blue)
+Undergraduate Softwear Student in Sri Lanka
 
 <!--
 **mskkumudesh/mskkumudesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
