@@ -1,4 +1,4 @@
-## Hi there 👋 I am Msk Kumudesh
+## Hi there 👋 I am Msk Kumudesh Softwear Student in Sri Lanka
 
 <!--
 **mskkumudesh/mskkumudesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
