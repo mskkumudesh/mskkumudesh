@@ -28,10 +28,7 @@
         />
       </a> -->
       <a href="https://mskkumudesh.github.io/portFolio/" target="_blank">
-        <img
-          src="https://img.shields.io/badge/Portfolio-mskkumudesh.lk-informational?style=flat&logo=google-chrome&logoColor=white&color=1d7a71"
-          alt="Portfolio"
-        />
-      </a>
+    <img src="https://img.shields.io/badge/Portfolio-udara.sans.lk-informational?style=flat&logo=google-chrome&logoColor=white&color=1d7a71" alt="Portfolio"/>
+  </a>
     </p>
   </body>
