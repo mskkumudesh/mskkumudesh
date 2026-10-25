@@ -79,7 +79,7 @@ Explore my repositories for the projects and code I have published:
 
 - 💼 LinkedIn: [linkedin.com/in/mskkumudesh](https://www.linkedin.com/in/mskkumudesh/)
 - 💻 GitHub: [github.com/mskkumudesh](https://github.com/mskkumudesh)
-- 🌐 Portfolio: [mskkumudesh.github.io](https://mskkumudesh.github.io/)
+- 🌐 Portfolio: [mskkumudesh.github.io](https://mskkumudesh.github.io/Portfolio)
 
 ---
 
