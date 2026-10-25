@@ -15,7 +15,7 @@ I enjoy building practical applications, learning new technologies, and turning 
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying software engineering at **IJSE**.
+- 🎓 Studying software engineering.
 - 💻 Interested in frontend, backend, and mobile application development.
 - 🌱 Continuously learning and improving through hands-on projects.
 - 🧠 Enjoy solving problems and learning how software works from end to end.
